@@ -1,0 +1,5 @@
+build/
+null
+*.yasscmd
+tempCppTests.cpp
+.vscode/
